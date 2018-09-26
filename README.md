@@ -1,6 +1,6 @@
 # 2018-09-ocf
 
-Meeting information and materials for the Septermber 2018 phone call with OCF.
+Meeting information and materials for the September 2018 phone call with OCF.
 
 Time: 2018-09-27 7:00-8:30 PST (16:00-17:30 CEST)
 
