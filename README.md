@@ -6,7 +6,7 @@ Time: 2018-09-27 7:00-8:30 PST (16:00-17:30 CEST)
 
 ## Draft Agenda
 
-* "[Secure group communication for CoAP](https://tools.ietf.org/html/draft-ietf-core-oscore-groupcomm-02)" 
+* "[Secure group communication for CoAP](https://tools.ietf.org/html/draft-ietf-core-oscore-groupcomm-02)" status and way forward 
  
 ## Call-in info
 
